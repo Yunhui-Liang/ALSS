@@ -1,0 +1,82 @@
+{
+  "prepared_by": "experiments/prepare_bundled_data.py",
+  "python": "3.11.5",
+  "scikit_learn": "1.3.0",
+  "datasets": {
+    "iris:view_01": {
+      "dataset": "iris",
+      "view": "view_01",
+      "display_name": "Iris",
+      "k": 3,
+      "preprocessing": "standard",
+      "source": "UCI Iris; loaded from scikit-learn 1.3.0 bundled copy",
+      "source_url": "https://archive.ics.uci.edu/dataset/53/iris",
+      "source_doi": "10.24432/C56C76",
+      "license": "CC BY 4.0",
+      "file": "data/bundled/iris.npz",
+      "file_sha256": "30eabb5bf0b1e7b799dd7a19d1d0b5a2d587e8e4dbabce3d8d3de5b38ad1cd8f",
+      "X_shape": [
+        150,
+        4
+      ],
+      "X_dtype": "float64",
+      "X_sha256": "4a500776313a7e6331e5c4c6e5d35d42ee3fce00b41dada11c42079d04d99677",
+      "y_shape": [
+        150
+      ],
+      "y_dtype": "int32",
+      "y_sha256": "1991b0671f1d3cb3f39b576fb5b4ae79a50d3a9c44f0bb050b8562b832666c1d"
+    },
+    "wine:view_01": {
+      "dataset": "wine",
+      "view": "view_01",
+      "display_name": "Wine",
+      "k": 3,
+      "preprocessing": "standard",
+      "source": "UCI Wine; loaded from scikit-learn 1.3.0 bundled copy",
+      "source_url": "https://archive.ics.uci.edu/dataset/109/wine",
+      "source_doi": "10.24432/C5PC7J",
+      "license": "CC BY 4.0",
+      "file": "data/bundled/wine.npz",
+      "file_sha256": "cb80c236750394fd3f2b356a1eebc312e91d3560f7842f7061374659f38cfd2f",
+      "X_shape": [
+        178,
+        13
+      ],
+      "X_dtype": "float64",
+      "X_sha256": "f5d369f7d9bb449e7ba2fc2392a0a57f99305499614d7551a25120fc15c290d1",
+      "y_shape": [
+        178
+      ],
+      "y_dtype": "int32",
+      "y_sha256": "fa2a2337d9c9a2a693d3642ea2501ee52f3d9ecba0bd0b2b6c6fa70892da92f7"
+    },
+    "mfeat:view_06": {
+      "dataset": "mfeat",
+      "view": "view_06",
+      "display_name": "MFeat view 6 (mfeat-mor)",
+      "k": 10,
+      "preprocessing": "standard",
+      "source": "UCI Multiple Features, morphological descriptor view",
+      "source_url": "https://archive.ics.uci.edu/dataset/72/multiple+features",
+      "source_doi": "10.24432/C5HC70",
+      "source_archive": "data/upstream/multiple+features.zip",
+      "source_archive_sha256": "898a50a7637f1ed5a8cee2493aaa0e7f4d52795c412f59b0969ec7c3046ee7bd",
+      "source_member": "mfeat-mor",
+      "license": "CC BY 4.0",
+      "file": "data/bundled/mfeat_view6.npz",
+      "file_sha256": "ed6d5949a3212f73f1c5b7794ef0269aef88df85dcbe98a6c714e06a7d0eceeb",
+      "X_shape": [
+        2000,
+        6
+      ],
+      "X_dtype": "float64",
+      "X_sha256": "e88d0493bdc30f4763fdeaca84ceeca565de75c2b6208e9e4c8f39321cd90b04",
+      "y_shape": [
+        2000
+      ],
+      "y_dtype": "int64",
+      "y_sha256": "2ab51f431026a920b85a83eb1ebb0b44b16a4a0f7af0da78fe7754115ac514f3"
+    }
+  }
+}

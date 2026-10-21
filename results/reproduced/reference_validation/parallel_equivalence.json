@@ -1,0 +1,142 @@
+{
+  "dataset": "MFeat view 6 (mfeat-mor)",
+  "n": 2000,
+  "d": 6,
+  "k": 10,
+  "checks": [
+    {
+      "strategy": "gain",
+      "horizon_aware": false,
+      "workers": 1,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 45,
+      "sse": 882.3382325788109
+    },
+    {
+      "strategy": "gain",
+      "horizon_aware": false,
+      "workers": 2,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 45,
+      "sse": 882.3382325788109
+    },
+    {
+      "strategy": "gain",
+      "horizon_aware": false,
+      "workers": 4,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 45,
+      "sse": 882.3382325788109
+    },
+    {
+      "strategy": "gain",
+      "horizon_aware": false,
+      "workers": 8,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 45,
+      "sse": 882.3382325788109
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": false,
+      "workers": 1,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 93,
+      "sse": 900.6337862832082
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": false,
+      "workers": 2,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 93,
+      "sse": 900.6337862832082
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": false,
+      "workers": 4,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 93,
+      "sse": 900.6337862832082
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": false,
+      "workers": 8,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 93,
+      "sse": 900.6337862832082
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": true,
+      "workers": 1,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 87,
+      "sse": 882.3382325788108
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": true,
+      "workers": 2,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 87,
+      "sse": 882.3382325788108
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": true,
+      "workers": 4,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 87,
+      "sse": 882.3382325788108
+    },
+    {
+      "strategy": "alss",
+      "horizon_aware": true,
+      "workers": 8,
+      "labels_exact": true,
+      "fit_calls_equal": true,
+      "sse_equal": true,
+      "trajectory_equal": true,
+      "fit_calls": 87,
+      "sse": 882.3382325788108
+    }
+  ],
+  "status": "PASS",
+  "created_utc": "2026-10-21T03:06:14.541745+00:00"
+}

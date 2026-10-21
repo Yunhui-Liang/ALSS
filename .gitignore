@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Reproduction outputs are generated locally.
+results/reproduced/*
+!results/reproduced/.gitkeep
+!results/reproduced/reference_validation/
+!results/reproduced/reference_validation/**
+!results/reproduced/iris_wine_smoke/
+!results/reproduced/iris_wine_smoke/**
+
+# Local copies of paper datasets whose redistribution terms are not confirmed.
+data/paper_views_local/*
+!data/paper_views_local/README.md
+

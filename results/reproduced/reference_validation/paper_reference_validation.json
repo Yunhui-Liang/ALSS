@@ -1,0 +1,573 @@
+{
+  "status": "PASS",
+  "reference_csv": "quality_7sets_8methods_5seeds.csv",
+  "matched_rows": 40,
+  "max_abs_metric_error": {
+    "ACC": 0.0,
+    "NMI": 0.0,
+    "ARI": 0.0,
+    "SSE": 0.0
+  },
+  "comparisons": [
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Largest",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Inertia",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-MeanSSE",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Savaresi-J",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Gain",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS-BudgetAware",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "Flat-KMeans",
+        0
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Largest",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Inertia",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-MeanSSE",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Savaresi-J",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Gain",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS-BudgetAware",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "Flat-KMeans",
+        1
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Largest",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Inertia",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-MeanSSE",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Savaresi-J",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Gain",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS-BudgetAware",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "Flat-KMeans",
+        2
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Largest",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Inertia",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-MeanSSE",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Savaresi-J",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Gain",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS-BudgetAware",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "Flat-KMeans",
+        3
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Largest",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Inertia",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-MeanSSE",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Savaresi-J",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "BKM-Gain",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "ALSS-BudgetAware",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    },
+    {
+      "key": [
+        "mfeat",
+        "view_06",
+        "Flat-KMeans",
+        4
+      ],
+      "metric_errors": {
+        "ACC": 0.0,
+        "NMI": 0.0,
+        "ARI": 0.0,
+        "SSE": 0.0
+      }
+    }
+  ]
+}

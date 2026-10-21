@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "frozen_source_hashes": {
+    "src/bkm.py": {
+      "sha256": "765cd38e6493aa21ffc160c4749e8b19015901eadc5ee79b0d139e45f43efe31",
+      "expected_sha256": "765cd38e6493aa21ffc160c4749e8b19015901eadc5ee79b0d139e45f43efe31",
+      "match": true
+    },
+    "src/split_rules.py": {
+      "sha256": "f625942027ae85377564d70f77c7c73a8bfd6f8d9c67c2da9fe294c91d53e80b",
+      "expected_sha256": "f625942027ae85377564d70f77c7c73a8bfd6f8d9c67c2da9fe294c91d53e80b",
+      "match": true
+    },
+    "src/evaluation.py": {
+      "sha256": "e59d5c81720073349ea367cadd11665544653ccf40c8f12e210ded331aef6cb6",
+      "expected_sha256": "e59d5c81720073349ea367cadd11665544653ccf40c8f12e210ded331aef6cb6",
+      "match": true
+    }
+  },
+  "frozen_input_hashes": {
+    "data/upstream/multiple+features.zip": {
+      "sha256": "898a50a7637f1ed5a8cee2493aaa0e7f4d52795c412f59b0969ec7c3046ee7bd",
+      "expected_sha256": "898a50a7637f1ed5a8cee2493aaa0e7f4d52795c412f59b0969ec7c3046ee7bd",
+      "match": true
+    }
+  },
+  "reference_quality_table": {
+    "rows": 280,
+    "unique_dataset_view_method_seed_keys": 280,
+    "complete_7x8x5_grid": true
+  },
+  "release_file_hashes": {
+    "src/__init__.py": "23c00d8652b0173ed7d50c93425c46c9a7ea6ac0150355202c0d31b8cc3b2a8e",
+    "src/bkm.py": "765cd38e6493aa21ffc160c4749e8b19015901eadc5ee79b0d139e45f43efe31",
+    "src/split_rules.py": "f625942027ae85377564d70f77c7c73a8bfd6f8d9c67c2da9fe294c91d53e80b",
+    "src/evaluation.py": "e59d5c81720073349ea367cadd11665544653ccf40c8f12e210ded331aef6cb6",
+    "src/parallel.py": "04263d17ef61c6f3f4c61cb6c887c14e4060e68da97d10fbfdbc94e09504ac15",
+    "src/parallel_candidate_eval.py": "cd25ca5b795ec3cc80f04aba57ad79e5f8ff8113570ff3dfa8ea0edd32b48abd",
+    "experiments/prepare_bundled_data.py": "ed1899050e47e0a0abca8c8546e9256c3742136e89de4925c286fa634b6c0829",
+    "experiments/prepare_mat_view.py": "d403ef644211bbb3b7806ff5ac3de8bbdcaaa4936bdf74ea92a873edcb3742a1",
+    "experiments/run_reproduction.py": "40eb2038fff540bb61e6ed242159aaaf3af41be487eec8b98cbbee02d958247a",
+    "experiments/validate_parallel_equivalence.py": "d55dbeae8163bd25f768ac9990a9a6576d4d3dabe2776a7fdae58938726f3c82",
+    "experiments/build_release_manifest.py": "f9abf6ad92c6cbd920cd9b6af88dc7060339ed8188165ba9f6379cefaa6ff40a",
+    "experiments/package_release.py": "1f2761d6a0adc1bd18d2b7153db80e1742eaf78648b014e91fcdaa8ca6ae8cb7",
+    "requirements.txt": "5e50a9d750bd5d64c23da09e917da83c86a127976d32e1e52b40f00f0f02457d",
+    ".gitignore": "a16f30c8ead18407eef53201f82d6e06fffce922478a8ae201f1dc9e579dd537",
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "README.md": "669403c1b724d5a98365020f201375dafee9be1c4a1bedd4b1ee177c0c534396",
+    "DATASET_SOURCES.md": "3cc4df357566566e5dda47901d1dd7b190d1d2c4e58063e37756d1646152a235",
+    "REPRODUCTION_REPORT.md": "438c953a255eead55862cac50b8225d0ce082f6b4c04fcfe9ee23ea802507cd1",
+    "data/paper_views_local/README.md": "3b9348350d818c444f46e4b2b6f3c4ee94ff6a330f52c9b37c2868dac0837998",
+    "results/reference/quality_7sets_8methods_5seeds.csv": "e3725df1e6b60823edf09fe3c8b946d72c5ce6ee3b98885aa9d2c098bde972cc",
+    "data/upstream/multiple+features.zip": "898a50a7637f1ed5a8cee2493aaa0e7f4d52795c412f59b0969ec7c3046ee7bd",
+    "data/bundled/iris.npz": "30eabb5bf0b1e7b799dd7a19d1d0b5a2d587e8e4dbabce3d8d3de5b38ad1cd8f",
+    "data/bundled/wine.npz": "cb80c236750394fd3f2b356a1eebc312e91d3560f7842f7061374659f38cfd2f",
+    "data/bundled/mfeat_view6.npz": "ed6d5949a3212f73f1c5b7794ef0269aef88df85dcbe98a6c714e06a7d0eceeb",
+    "data/bundled_manifest.json": "3a0acac3bd40c24ec06edf138e92a04c0c2466fee8cf54860e064cd68389fcc3",
+    "results/reproduced/reference_validation/per_seed_results.csv": "441b00b7f53e60175535dc5ec12cf7b2836b9b6cbff5def217b61a16c89357b8",
+    "results/reproduced/reference_validation/paper_reference_validation.json": "80875a010f1858e11f79f7986634597ff017659a4af1bdbd2d1311ea95b72112",
+    "results/reproduced/reference_validation/run_metadata.json": "26997de48e05c9d68aeab3b9a7c71b9582b6b6f88507a1dc42126e79163eb558",
+    "results/reproduced/reference_validation/parallel_equivalence.json": "892405194b2cb42a8eeacbb4670274a0d491e4b778d0fca725e4d9b566b6414f",
+    "results/reproduced/iris_wine_smoke/per_seed_results.csv": "d9660b81aab834d790e8918cb6bd28f33c8a3d0c36f24b80503d6293aee8716a",
+    "results/reproduced/iris_wine_smoke/run_metadata.json": "152cb9e3da6bd5e94e4cf235dbf9a2751c4de6c700f59633ac1e0ee1df247fa5"
+  },
+  "missing_files": [],
+  "status": "PASS"
+}
